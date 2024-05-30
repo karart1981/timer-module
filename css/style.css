@@ -5,7 +5,7 @@
 }
 
 body{
-	background:#E8F48C;
+	background:#318CE7;
 	height:400px;
 }
 #count-down-app {
@@ -16,6 +16,7 @@ body{
 #count-down-app > span {
 	font-size: 70px;
 	font-weight: bold;
-	color: #000fcc;
+	color: #F4CA16;
+	text-shadow: 1px 1px 1px #0c74db;
 	font-family: Tahoma;
 }

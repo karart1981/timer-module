@@ -51,4 +51,4 @@ function countDownAppInit (elementType, endTime) {
 	countDownUpdate(elementType, endTime);
 }
 
-countDownAppInit("span", "2022-09-10");
+countDownAppInit("span", "2025-01-01");
